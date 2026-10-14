@@ -1,7 +1,7 @@
 {
-  "name": "Praxisanleitung nach Theorieblock",
-  "short_name": "Praxisanleitung",
-  "description": "Praxisanleitung – geschützter Bereich für Auszubildende",
+  "name": "DIANA – Digitaler Ausbildungsnachweis",
+  "short_name": "DIANA",
+  "description": "DIANA – Digitaler Ausbildungsnachweis – geschützter Bereich für Auszubildende",
   "lang": "de",
   "start_url": "./",
   "scope": "./",
