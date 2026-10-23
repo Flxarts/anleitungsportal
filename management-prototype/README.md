@@ -43,4 +43,10 @@ Die berechnete Nachweisquote zeigt geprüfte Dokumente / angeforderte Dokumente,
 
 ## Prüfung
 
-JavaScript-Syntax geprüft. Modellprüfung für alle 49 Kombinationen aus Rolle und Seite, Zuständigkeitsfilter, Planungsrechte und lokale Speicherung erfolgreich. Ein echter Browserlauf war durch die Socket-Beschränkungen der Arbeitsumgebung blockiert. Daher noch keine bestätigte visuelle oder vollständige Ende-zu-Ende-Prüfung.
+JavaScript-Syntax geprüft. Modellprüfung für alle 49 Kombinationen aus Rolle und Seite, Zuständigkeitsfilter, Planungsrechte und lokale Speicherung erfolgreich. Chromium-Prüfung über lokalen HTTP-Server erfolgreich: Korrektur anfordern → Schülerabgabe → Prüfung, Zuständigkeitsfilter, eingeschränkte Planungsrechte und Speicherung über Neuladen. Desktop (1440 px) und Smartphone (390 px) visuell geprüft; keine JavaScript-Laufzeitfehler. Dies prüft den lokalen Prototyp, keine noch nicht vorhandene Backend-Autorisierung.
+
+## Gestaltung nach dem Originalportal
+
+Originale Fira-Sans-Schriften (400/700, eingebettet ohne externe Font-Anfragen), AMEOS-Logo und DIANA-Zeichen aus der vorhandenen HTML-Vorlage. Farben: Dunkelblau #144995, Orange #ff7400, Blau #0085c8. Kopfzeile, Navigation, Karten, Formulare und mobile Dokumentenkarten folgen der vorhandenen Gestaltung. Tastaturfokus, Sprunglink, benannter Dialog und aktiver Navigationszustand sind ergänzt.
+
+Die gewünschten Plugins Impeccable und Mobbin waren in dieser Sitzung weder als Werkzeuge verfügbar noch über die Plugin-Suche auffindbar; sie wurden nicht verwendet.
